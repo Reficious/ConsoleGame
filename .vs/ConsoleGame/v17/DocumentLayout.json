@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Developer\\Learning_CSharp\\ConsoleGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26610B3E-F1BB-4858-93F5-4A7BF66433CA}|ConsoleGame.csproj|d:\\developer\\learning_csharp\\consolegame\\documentation.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{26610B3E-F1BB-4858-93F5-4A7BF66433CA}|ConsoleGame.csproj|solutionrelative:documentation.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Documentation.txt",
+              "DocumentMoniker": "D:\\Developer\\Learning_CSharp\\ConsoleGame\\Documentation.txt",
+              "RelativeDocumentMoniker": "Documentation.txt",
+              "ToolTip": "D:\\Developer\\Learning_CSharp\\ConsoleGame\\Documentation.txt",
+              "RelativeToolTip": "Documentation.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-07-08T09:37:39.389Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

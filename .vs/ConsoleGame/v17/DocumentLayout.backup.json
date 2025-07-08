@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Developer\\Learning_CSharp\\ConsoleGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26610B3E-F1BB-4858-93F5-4A7BF66433CA}|ConsoleGame.csproj|d:\\developer\\learning_csharp\\consolegame\\menugame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26610B3E-F1BB-4858-93F5-4A7BF66433CA}|ConsoleGame.csproj|solutionrelative:menugame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26610B3E-F1BB-4858-93F5-4A7BF66433CA}|ConsoleGame.csproj|d:\\developer\\learning_csharp\\consolegame\\locations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26610B3E-F1BB-4858-93F5-4A7BF66433CA}|ConsoleGame.csproj|solutionrelative:locations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26610B3E-F1BB-4858-93F5-4A7BF66433CA}|ConsoleGame.csproj|d:\\developer\\learning_csharp\\consolegame\\functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26610B3E-F1BB-4858-93F5-4A7BF66433CA}|ConsoleGame.csproj|solutionrelative:functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26610B3E-F1BB-4858-93F5-4A7BF66433CA}|ConsoleGame.csproj|d:\\developer\\learning_csharp\\consolegame\\printtext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26610B3E-F1BB-4858-93F5-4A7BF66433CA}|ConsoleGame.csproj|solutionrelative:printtext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26610B3E-F1BB-4858-93F5-4A7BF66433CA}|ConsoleGame.csproj|d:\\developer\\learning_csharp\\consolegame\\savegame.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{26610B3E-F1BB-4858-93F5-4A7BF66433CA}|ConsoleGame.csproj|solutionrelative:savegame.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26610B3E-F1BB-4858-93F5-4A7BF66433CA}|ConsoleGame.csproj|d:\\developer\\learning_csharp\\consolegame\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26610B3E-F1BB-4858-93F5-4A7BF66433CA}|ConsoleGame.csproj|solutionrelative:enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "D:\\Developer\\Learning_CSharp\\ConsoleGame\\Enemy.cs",
+              "RelativeDocumentMoniker": "Enemy.cs",
+              "ToolTip": "D:\\Developer\\Learning_CSharp\\ConsoleGame\\Enemy.cs",
+              "RelativeToolTip": "Enemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T08:02:11.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "savegame.txt",
+              "DocumentMoniker": "D:\\Developer\\Learning_CSharp\\ConsoleGame\\savegame.txt",
+              "RelativeDocumentMoniker": "savegame.txt",
+              "ToolTip": "D:\\Developer\\Learning_CSharp\\ConsoleGame\\savegame.txt",
+              "RelativeToolTip": "savegame.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-07-06T07:44:39.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Locations.cs",
+              "DocumentMoniker": "D:\\Developer\\Learning_CSharp\\ConsoleGame\\Locations.cs",
+              "RelativeDocumentMoniker": "Locations.cs",
+              "ToolTip": "D:\\Developer\\Learning_CSharp\\ConsoleGame\\Locations.cs",
+              "RelativeToolTip": "Locations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T06:45:15.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "printText.cs",
+              "DocumentMoniker": "D:\\Developer\\Learning_CSharp\\ConsoleGame\\printText.cs",
+              "RelativeDocumentMoniker": "printText.cs",
+              "ToolTip": "D:\\Developer\\Learning_CSharp\\ConsoleGame\\printText.cs",
+              "RelativeToolTip": "printText.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwAIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T04:56:24.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Functions.cs",
+              "DocumentMoniker": "D:\\Developer\\Learning_CSharp\\ConsoleGame\\Functions.cs",
+              "RelativeDocumentMoniker": "Functions.cs",
+              "ToolTip": "D:\\Developer\\Learning_CSharp\\ConsoleGame\\Functions.cs",
+              "RelativeToolTip": "Functions.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAnwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T04:56:28.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenuGame.cs",
+              "DocumentMoniker": "D:\\Developer\\Learning_CSharp\\ConsoleGame\\MenuGame.cs",
+              "RelativeDocumentMoniker": "MenuGame.cs",
+              "ToolTip": "D:\\Developer\\Learning_CSharp\\ConsoleGame\\MenuGame.cs",
+              "RelativeToolTip": "MenuGame.cs",
+              "ViewState": "AgIAAL0BAAAAAAAAAAAQwMcBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T18:02:42.598Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
