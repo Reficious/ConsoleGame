@@ -1,4 +1,4 @@
-### Hướng dẫn sử dụng và tùy chỉnh RPG ASCII CSHARP made by Thạch Sùng dev
+# Hướng dẫn sử dụng và tùy chỉnh RPG ASCII CSHARP made by Thạch Sùng dev
 
 ## Hiểu:
 (*) Trước tiên thì hãy nhìn sơ qua về tất cả file có trong Folder game này.
@@ -32,7 +32,7 @@ còn các file C# khác thì tôi dùng để chứa các chức năng được 
 
 ## Cách thức hoạt động
 
-# Biến trong start_game.cs
+### Biến trong start_game.cs
 - Trong start_game.cs có các biến bool, dùng để khai báo trạng thái mà người chơi lựa chọn, những thứ mà code nên chạy.
 
 - Phần biến chính, hiện ra màn hình:
@@ -102,7 +102,7 @@ Lưu ý, những quái vật lưu trong đây thì nó sẽ xuất hiện trong 
 	+ stats : đây là một danh sách, không phải mảng nó dùng để lưu các chỉ số của người chơi.
 	+ rdn : đây là đối tượng, dùng để random số, random quái vật.
 
-# Hàm trong start_game.cs:
+### Hàm trong start_game.cs:
 - UpdateStats : đây là phương thức cập nhập những gì bạn đã làm trong game,
 giả dụ như vừa tăng 10 cấp, tăng 10 atk, ... và chúng ta cần phải lưu các giá trị này,
 vào biến `stats` -> từ đó thì phương thức SaveGame() mới lưu lại những gì đã làm.
@@ -116,9 +116,9 @@ chỉ số trong game, thì game mới thay đổi những giá trị mặc đ�
 - Battle : gọi tới màn hình chiến đấu
 - BossBattle : như trên, nhưng dùng để xử lý vấn đề thay vì random quái, mà đấu với boss.
 
-# Còn lại, là sử dụng các chức năng ở các file khác đã làm sẵn, hiện màn hình, đưa ra lựa chọn cho người chơi sử dụng.
+### Còn lại, là sử dụng các chức năng ở các file khác đã làm sẵn, hiện màn hình, đưa ra lựa chọn cho người chơi sử dụng.
 
-Những thứ có thể làm:
+### Những thứ có thể làm:
 1. Bro có thể biến những thứ lặp đi lặp lại thành 1 phương thức, và gọi nó 1 lần là được,
 giúp tránh việc 1 đoạn mã lặp đi lặp lại nhiều lần.
 
