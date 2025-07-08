@@ -18,7 +18,7 @@ namespace ConsoleGame
     {
         static void Main(string[] args)
         {
-            const string path = @"D:\Developer\Learning_CSharp\ConsoleGame\savegame.txt";
+            const string path = @"";
 
             bool run = true;
             bool menu = true;
