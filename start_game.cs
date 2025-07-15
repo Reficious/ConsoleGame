@@ -19,7 +19,7 @@ namespace ConsoleGame
         static void Main(string[] args)
         {
                                 // Đưa vào địa chỉ cụ thể nơi lưu game, ví dụ D:\Backups\.... đưa cụ thể vào folder này, để lưu và load file save.
-            const string path = @"";
+            const string path = @"D:\Developer\Learning_CSharp\ConsoleGame\savegame.txt";
 
             bool run = true;
             bool menu = true;

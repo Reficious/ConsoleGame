@@ -26,3 +26,4 @@ D:\Developer\Learning_CSharp\ConsoleGame\bin\Debug\net9.0\sv\Spectre.Console.Cli
 D:\Developer\Learning_CSharp\ConsoleGame\bin\Debug\net9.0\zh-Hans\Spectre.Console.Cli.resources.dll
 D:\Developer\Learning_CSharp\ConsoleGame\obj\Debug\net9.0\ConsoleGame.csproj.AssemblyReference.cache
 D:\Developer\Learning_CSharp\ConsoleGame\obj\Debug\net9.0\ConsoleG.E8750121.Up2Date
+D:\Developer\Learning_CSharp\ConsoleGame\obj\Debug\net9.0\ConsoleGame.sourcelink.json

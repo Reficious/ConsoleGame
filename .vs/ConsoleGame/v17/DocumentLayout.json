@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\Developer\\Learning_CSharp\\ConsoleGame\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{26610B3E-F1BB-4858-93F5-4A7BF66433CA}|ConsoleGame.csproj|d:\\developer\\learning_csharp\\consolegame\\start_game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26610B3E-F1BB-4858-93F5-4A7BF66433CA}|ConsoleGame.csproj|solutionrelative:start_game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26610B3E-F1BB-4858-93F5-4A7BF66433CA}|ConsoleGame.csproj|d:\\developer\\learning_csharp\\consolegame\\functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26610B3E-F1BB-4858-93F5-4A7BF66433CA}|ConsoleGame.csproj|solutionrelative:functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{26610B3E-F1BB-4858-93F5-4A7BF66433CA}|ConsoleGame.csproj|d:\\developer\\learning_csharp\\consolegame\\documentation.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{26610B3E-F1BB-4858-93F5-4A7BF66433CA}|ConsoleGame.csproj|solutionrelative:documentation.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
@@ -14,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,7 +30,32 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Functions.cs",
+              "DocumentMoniker": "D:\\Developer\\Learning_CSharp\\ConsoleGame\\Functions.cs",
+              "RelativeDocumentMoniker": "Functions.cs",
+              "ToolTip": "D:\\Developer\\Learning_CSharp\\ConsoleGame\\Functions.cs",
+              "RelativeToolTip": "Functions.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T10:47:09.379Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "start_game.cs",
+              "DocumentMoniker": "D:\\Developer\\Learning_CSharp\\ConsoleGame\\start_game.cs",
+              "RelativeDocumentMoniker": "start_game.cs",
+              "ToolTip": "D:\\Developer\\Learning_CSharp\\ConsoleGame\\start_game.cs",
+              "RelativeToolTip": "start_game.cs",
+              "ViewState": "AgIAAGEBAAAAAAAAAAAowDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T10:46:56.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Documentation.txt",
               "DocumentMoniker": "D:\\Developer\\Learning_CSharp\\ConsoleGame\\Documentation.txt",
               "RelativeDocumentMoniker": "Documentation.txt",
@@ -30,8 +63,7 @@
               "RelativeToolTip": "Documentation.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-07-08T09:37:39.389Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-08T09:37:39.389Z"
             }
           ]
         }
